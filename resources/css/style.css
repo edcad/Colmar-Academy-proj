@@ -2,7 +2,7 @@
 
 html {
   font-size: 16px;
-  font-family: 'Quattrocento', serif;
+  font-family: 'Futura', serif;
 }
 
 section {
@@ -11,39 +11,38 @@ section {
 }
 
 body section:nth-child(even) {
-  background-color: #687083;
+  background-color: #798296;
 }
 
 h1  {
-  font-family: 'Oswald', sans-serif;
-  text-transform: uppercase;
+  font-family: 'Futura', sans-serif;
   font-weight: 700;
-  color: #1B202B;
+  color: #181d28;
   font-size: 2.5rem;
   line-height: 1.5;
   margin-bottom: 30px;
 }
 
 h2 {
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Century-Gothic', sans-serif;
   font-weight: 400;
-  color: #C5CAD7;
+  color: #edeef2;
   font-size: 1.4rem;
   line-height: 1.5;
   margin-bottom: 40px;
 }
 
 h5 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Futura', sans-serif;
   font-weight: 700;
-  color: #1B202B;
+  color: #181d28;
   font-size: 2rem;
 }
 
 h6 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Futura', sans-serif;
   font-weight: 400;
-  color: #1B202B;
+  color: #181d28;
   font-size: 1.25rem;
   margin-bottom: 0.75rem;
 }
@@ -51,7 +50,7 @@ h6 {
 p {
   font-size: 0.9rem;
   line-height: 1rem;
-  color: #687083;
+  color: #798296;
 
 }
 
@@ -94,17 +93,17 @@ header {
 }
 
 #colmar {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Futura', sans-serif;
   font-weight: 700;
   font-size: 1.2rem;
-  color: #1B202B;
+  color: #181d28;
 }
 
 #academy {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Futura', sans-serif;
   font-size: 1.2rem;
   font-weight: 300;
-  color: #687083;
+  color: #798296;
 }
 
 nav ul {
@@ -118,7 +117,7 @@ ul li a {
   margin-left: 16px;
   font-size: 0.9rem;
   text-decoration: none;
-  color: #1B202B;
+  color: #181d28;
 }
 nav.mobile {
   display: none;
@@ -166,14 +165,14 @@ section.banner {
 }
 
 .banner_content a {
-  background-color: #1B202B;
+  background-color: #181d28;
   width: 100%;
   margin-right: 16px;
   text-align: center;
   text-decoration: none;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Century-Gothic', sans-serif;
   font-size: 1.2rem;
   font-weight: 700;
   color: #FFFFFF;
@@ -181,8 +180,8 @@ section.banner {
 }
 
 .banner_content a:hover {
-  background-color: #C5CAD7;
-  color: #1B202B;
+  background-color: #edeef2;
+  color: #181d28;
 }
 
 /*BANNER - 1024 px*/
@@ -255,10 +254,10 @@ section.banner {
 }
 
 .feature_content span {
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Century-Gothic', sans-serif;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #687083;
+  color: #798296;
   margin-top: 30px;
 
 }
@@ -266,18 +265,18 @@ section.banner {
 .sidebar {
   display: flex;
   flex-direction: column;
-  border-left: 1px solid #C5CAD7;
+  border-left: 1px solid #edeef2;
   padding-bottom: 32px;
   width: 40%;
 }
 
 .sidebar div:first-child {
   padding-top: 16px;
-  background-color: #C5CAD7;
+  background-color: #edeef2;
 }
 
 .sidebar div:nth-child(3n) {
-  background-color: #C5CAD7;
+  background-color: #edeef2;
 }
 
 .sidebar_box {
@@ -300,12 +299,12 @@ section.banner {
 }
 
 .textbox p {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Century-Gothic", sans-serif;
   margin-bottom: 1.25rem;
 }
 
 .textbox a {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Century-Gothic", sans-serif;
   color: #404655;
   font-size: 0.9rem;
   text-decoration: none;
@@ -409,10 +408,10 @@ section.banner {
 }
 
 .course_box .textbox span {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Century-Gothic", sans-serif;
   font-weight: 200;
   font-size: 0.9rem;
-  color: #687083;
+  color: #798296;
   margin-top: 0.5rem;
   margin-bottom: 0.75rem;
   text-transform: uppercase;
@@ -467,7 +466,7 @@ section.banner {
   }
 
   .courses_mobile h6 {
-    background-color: #C5CAD7;
+    background-color: #edeef2;
     padding: 16px 0px 16px 16px;
     margin-bottom: 8px;
   }
@@ -507,7 +506,7 @@ section.banner {
 
 video {
   margin-bottom: 24px;
-  border: 2px solid #C5CAD7;
+  border: 2px solid #edeef2;
 }
 
 .video_mobile {
@@ -520,7 +519,7 @@ video {
 }
 
 #thesis div:first-child{
-  background-color: #C5CAD7;
+  background-color: #edeef2;
   padding-top: 0px;
 }
 
@@ -549,20 +548,20 @@ footer {
   display: inline-flex;
   justify-content: space-between;
   padding-top: 16px;
-  border-top: 1px solid #C5CAD7;
+  border-top: 1px solid #edeef2;
 }
 
 footer span {
   margin-left: 24px;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Century-Gothic", sans-serif;
   font-size: 0.75rem;
-  color: #687083;
+  color: #798296;
 }
 
 footer nav ul li a {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Century-Gothic", sans-serif;
   font-size: 0.75rem;
-  color: #687083;
+  color: #798296;
 }
 
 /*FOOTER MOBILE*/
@@ -573,7 +572,7 @@ footer nav ul li a {
   }
 
   footer {
-    border-top: 0px solid #C5CAD7;
+    border-top: 0px solid #edeef2;
     height: auto;
     margin-top: 16px;
     margin-bottom: 16px;
